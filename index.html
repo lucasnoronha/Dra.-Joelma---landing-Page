@@ -17,7 +17,7 @@
 </head>
 
 <body>
-<!-- Navbarv2 -->
+    <!-- Navbarv2 -->
     <header class="ln-topbar">
         <div id="icon"></div>
         <div id="menu">
@@ -100,6 +100,8 @@
             <img class="ln-Img1" src="images/Foto 1.png" alt="Dra. Joelma Andrade">
         </div>
     </section>
+     <!-- Arrow -->
+     <div class="arrow-down"></div>
     <!-- Sessão 2 -->
     <section class="ln-section-2" id="ln-section-2">
         <div class="row preencher">
@@ -329,7 +331,7 @@
                             <div class="image-boxv2">
                                 <video width="330" height="223" controls="controls">
                                     <source src="/video/Vídeo consultório .mp4" type="video/mp4" />
-                                    </video>
+                                </video>
                             </div>
                         </div>
                     </div>
@@ -783,14 +785,14 @@
         const icon = document.getElementById('icon');
 
         const menu = document.getElementById('menu');
-        
-        icon.onclick = function(){
+
+        icon.onclick = function () {
             icon.classList.toggle('active');
             menu.classList.toggle('active');
         }
 
-        document.onclick = function(clickEvent){
-            if(clickEvent.target.id !== "menu" && clickEvent.target.id !== "icon"){
+        document.onclick = function (clickEvent) {
+            if (clickEvent.target.id !== "menu" && clickEvent.target.id !== "icon") {
                 icon.classList.remove('active');
                 menu.classList.remove('active');
             }

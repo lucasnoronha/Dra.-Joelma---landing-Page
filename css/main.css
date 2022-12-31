@@ -31,6 +31,13 @@
         visibility: hidden;
     }
 
+    .arrow-down {
+        position: absolute;
+        top: 885px;
+        left: 183px;
+        background-image: url(/images/arrow-down2.png);
+    }
+
     .ln-section-2 {
         display: block;
         width: 390px;
@@ -397,9 +404,6 @@
 
     }
 
-    .arrow-down {
-        visibility: hidden;
-    }
 
     .ln-Img1 {
         width: 320px;
@@ -878,6 +882,10 @@
         height: 672px;
         margin: auto;
         visibility: none;
+    }
+
+    .arrow-down {
+        visibility: hidden;
     }
 
     .ln-section-2 {
@@ -1626,6 +1634,10 @@
         height: 672px;
         margin: auto;
         visibility: none;
+    }
+
+    .arrow-down {
+        visibility: hidden;
     }
 
     .ln-section-2 {
