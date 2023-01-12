@@ -485,6 +485,7 @@
         font-family: "Inter";
         font-size: 15px;
         font-weight: 500;
+        text-align: left;
         color: #233B37;
         margin-bottom: 0px;
     }
@@ -1141,6 +1142,7 @@
         font-family: "Inter";
         font-size: 20px;
         font-weight: 500;
+        text-align: left;
         color: #233B37;
         margin-bottom: 0px;
     }
@@ -1861,6 +1863,7 @@
         font-family: "Inter";
         font-size: 20px;
         font-weight: 500;
+        text-align: left;
         color: #233B37;
         margin-bottom: 0px;
     }
