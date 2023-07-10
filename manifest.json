@@ -1,0 +1,25 @@
+{
+  "background_color": "#ffffff",
+  "description": "Joelma Andrade, Cirurgião buco-maxilo-facial em Caruaru. Não realizo apenas cirurgias, eu mudo vidas! Eu e minha equipe estamos prontos para te proporcionar um atendimento e acompanhamento que todo paciente merece ter.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "dra-joelma-landing-page.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "dra-joelma-landing-page.vercel",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "health",
+    "medical"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "images/logo-ja.svg",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "pt"
+}
